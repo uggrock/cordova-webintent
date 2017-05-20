@@ -1,0 +1,27 @@
+{
+  "name": "WebIntent",
+  "version": "1.0.0",
+  "description": "Web intents for Cordova",
+  "cordova": {
+    "id": "com.borismus.webintent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uggrock/cordova-webintent.git"
+  },
+  "keywords": [
+    "cordova",
+    "webintent",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uggrock/cordova-webintent/issues"
+  },
+  "homepage": "https://github.com/uggrock/cordova-webintent#readme"
+}
